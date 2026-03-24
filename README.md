@@ -1,3 +1,8 @@
+> **⚠️ This repository has been archived.**
+> Development has moved to the [sjh-skills](https://github.com/jiahao-shao1/sjh-skills) monorepo under [`skills/notion-lifeos`](https://github.com/jiahao-shao1/sjh-skills/tree/main/skills/notion-lifeos).
+
+---
+
 # Notion LifeOS Skill
 
 English | [中文](README.zh.md)
